@@ -2,7 +2,8 @@
 title: 2 - Installation de mosquitto
 draft: false
 tags:
-  -
+  - mosquitto
+  - informatique
 ---
 - Allez sur mosquitto.org/download/
 - Dans la section "Windows", cliquez sur "mosquitto-2.0.22-install-windows-x64.exe" ![[Pasted image 20250917140133.png]]
