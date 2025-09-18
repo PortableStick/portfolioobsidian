@@ -1,6 +1,6 @@
 ---
 title: Mon CV
-draft: true
+draft: false
 tags:
   - cv
 ---

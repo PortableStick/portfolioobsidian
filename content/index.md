@@ -1,5 +1,5 @@
 ---
-title: Bonjour, moi c'est Lucas !
+title: Bienvenue sur mon portfolio !
 tags:
   - acceuil
 ---
@@ -8,9 +8,16 @@ tags:
 
 > **Étudiant en Génie Électrique et Informatique Industrielle**  
 > 🎓 BUT GEII | 🚁 Alternant chez Héli Union Training Center
-
+> 
+   [[[Mon CV]]]  [[[Mon contact]]]
 ---
+## 📁 À quoi sert ce portfolio ?
 
+Ce portfolio me permet de **centraliser et présenter** l'ensemble de mes réalisations :
+
+- **🎓 Projets étudiants** - Travaux et projets réalisés dans le cadre de ma formation BUT GEII
+- **🏢 Réalisations professionnelles** - Missions et projets développés lors de mon alternance
+- **⚡ Projets personnels** - Créations et expérimentations menées par passion
 ## 🔧 À propos de moi
 
 Passionné depuis petit par le monde fascinant de l'**électronique** et de l'**informatique**, j'ai rapidement compris qu'orienter ma carrière vers ces domaines est une bonne idée.
