@@ -40,10 +40,10 @@ Cette SAE s'est déroulée en plusieurs étapes :
 <td>
 Les schémas de câblage dans les rapports
 <ul>
-<li><a href="/SAE-Verifier-Test-1.pdf" target="_blank">Rapport test 1</a></li>
-<li><a href="/SAE-Verifier-Test-2.pdf" target="_blank">Rapport test 2</a></li>
-<li><a href="/SAE-Verifier-Test-3.pdf" target="_blank">Rapport test 3</a></li>
-<li><a href="/SAE-Verifier-Test-4.pdf" target="_blank">Rapport test 4</a></li>
+<li><a href="/SAE-Vérifier-Test-1.pdf" target="_blank">Rapport test 1</a></li>
+<li><a href="/SAE-Vérifier-Test-2.pdf" target="_blank">Rapport test 2</a></li>
+<li><a href="/SAE-Vérifier-Test-3.pdf" target="_blank">Rapport test 3</a></li>
+<li><a href="/SAE-Vérifier-Test-4.pdf" target="_blank">Rapport test 4</a></li>
 </ul>
 </td>
 <td>
@@ -85,7 +85,7 @@ Aucune difficulté<br><br>
 </td>
 <td>
 Le rapport contient le déroulé du test<br><br>
-<a href="/SAE-Verifier-Test-1.pdf" target="_blank">Rapport test 1</a>
+<a href="/SAE-Vérifier-Test-1.pdf" target="_blank">Rapport test 1</a>
 </td>
 <td>
 Aucune difficulté rencontrée<br><br>
@@ -106,7 +106,7 @@ Aucune difficulté rencontrée<br><br>
 </td>
 <td>
 Le rapport contient le déroulé du test<br><br>
-<a href="/SAE-Verifier-Test-2.pdf" target="_blank">Rapport test 2</a>
+<a href="/SAE-Vérifier-Test-2.pdf" target="_blank">Rapport test 2</a>
 </td>
 <td>
 Légère incompréhension du sujet au départ qui m'avait mené à réaliser des mauvaises mesures<br><br>
@@ -127,7 +127,7 @@ Légère incompréhension du sujet au départ qui m'avait mené à réaliser des
 </td>
 <td>
 Le rapport contient le déroulé du test<br><br>
-<a href="/SAE-Verifier-Test-3.pdf" target="_blank">Rapport test 3</a>
+<a href="/SAE-Vérifier-Test-3.pdf" target="_blank">Rapport test 3</a>
 </td>
 <td>
 Quelques difficultés au départ pour me familiariser avec l'oscilloscope<br><br>
@@ -148,7 +148,7 @@ Quelques difficultés au départ pour me familiariser avec l'oscilloscope<br><br
 </td>
 <td>
 Le rapport contient le déroulé du test<br><br>
-<a href="/SAE-Verifier-Test-4.pdf" target="_blank">Rapport test 4</a>
+<a href="/SAE-Vérifier-Test-4.pdf" target="_blank">Rapport test 4</a>
 </td>
 <td>
 Beaucoup d'erreurs de mesures ont été commises au vu de leur grand nombre, donc beaucoup de mesures ont du être faites en double, donc beaucoup de temps perdu<br><br>
@@ -168,10 +168,10 @@ Beaucoup d'erreurs de mesures ont été commises au vu de leur grand nombre, don
 <td>
 Tous les rapports de test
 <ul>
-<li><a href="/SAE-Verifier-Test-1.pdf" target="_blank">Rapport test 1</a></li>
-<li><a href="/SAE-Verifier-Test-2.pdf" target="_blank">Rapport test 2</a></li>
-<li><a href="/SAE-Verifier-Test-3.pdf" target="_blank">Rapport test 3</a></li>
-<li><a href="/SAE-Verifier-Test-4.pdf" target="_blank">Rapport test 4</a></li>
+<li><a href="/SAE-Vérifier-Test-1.pdf" target="_blank">Rapport test 1</a></li>
+<li><a href="/SAE-Vérifier-Test-2.pdf" target="_blank">Rapport test 2</a></li>
+<li><a href="/SAE-Vérifier-Test-3.pdf" target="_blank">Rapport test 3</a></li>
+<li><a href="/SAE-Vérifier-Test-4.pdf" target="_blank">Rapport test 4</a></li>
 </ul>
 </td>
 <td>
