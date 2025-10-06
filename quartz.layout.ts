@@ -65,3 +65,20 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+const popupScript: QuartzComponent = (() => {
+  return {
+    Component() {
+      return null
+    },
+    afterDOMLoaded: "./scripts/popup.inline",
+  }
+}) as QuartzComponent
+
+export const sharedPageComponents: SharedLayout = {
+  head: Component.Head(),
+  header: [],
+  afterBody: [
+    popupScript, // Ajoutez ici
+  ],
+}
