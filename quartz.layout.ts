@@ -1,11 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+const popupScript: QuartzComponent = (() => {
+  return {
+    Component() {
+      return null
+    },
+    afterDOMLoaded: "./scripts/popup.inline",
+  }
+}) as QuartzComponent
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    popupScript,
+  ],
   footer: Component.Footer({
     links: {
       "Mon GitHub": "https://github.com/portablestick",
@@ -64,21 +75,4 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [],
-}
-
-const popupScript: QuartzComponent = (() => {
-  return {
-    Component() {
-      return null
-    },
-    afterDOMLoaded: "./scripts/popup.inline",
-  }
-}) as QuartzComponent
-
-export const sharedPageComponents: SharedLayout = {
-  head: Component.Head(),
-  header: [],
-  afterBody: [
-    popupScript, // Ajoutez ici
-  ],
 }
